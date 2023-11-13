@@ -1,4 +1,4 @@
-# dame
+# Dame
 Dame - Brettspiel
 
 ## Beschreibung
